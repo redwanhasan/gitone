@@ -1,2 +1,0 @@
-# gitone
-For Git Practice
